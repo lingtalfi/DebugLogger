@@ -36,6 +36,10 @@ where the log are displayed: web or console.
 History Log
 ------------------
     
+- 1.1.1 -- 2018-03-24
+
+    - fix success color not green
+    
 - 1.1.0 -- 2018-03-24
 
     - change default br to true

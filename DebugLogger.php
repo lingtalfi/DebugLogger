@@ -16,7 +16,7 @@ class DebugLogger
         $this->colors = [
             'warning' => 'orange',
             'info' => 'blue',
-            'success' => 'success',
+            'success' => 'green',
             'error' => 'red',
         ];
     }
