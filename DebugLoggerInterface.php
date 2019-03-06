@@ -1,7 +1,7 @@
 <?php
 
 
-namespace DebugLogger;
+namespace Ling\DebugLogger;
 
 
 interface DebugLoggerInterface
