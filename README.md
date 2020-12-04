@@ -35,7 +35,11 @@ where the log are displayed: web or console.
 
 History Log
 ------------------
-    
+
+- 1.1.2 -- 2020-12-04
+
+    - Add lpi-deps.byml file
+
 - 1.1.1 -- 2018-03-24
 
     - fix success color not green
