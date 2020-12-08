@@ -36,6 +36,10 @@ where the log are displayed: web or console.
 History Log
 ------------------
 
+- 1.1.3 -- 2020-12-08
+
+    - Fix lpi-deps not using natsort.
+
 - 1.1.2 -- 2020-12-04
 
     - Add lpi-deps.byml file
